@@ -308,7 +308,10 @@
     { name: 'Wigwam', icon: '/assets/Wigwam-wallet.png' },
     { name: 'Zumo', icon: '/assets/zumo-wallet.png' },
     { name: 'Pip Wallet', icon: '/assets/Pip-wallet.png' },
-    { name: 'Revuto Wallet', icon: '/assets/Revuto-wallet.png' }
+    { name: 'Revuto Wallet', icon: '/assets/Revuto-wallet.png' },
+    { name: 'Xverse Wallet', icon: '/assets/Xverse-wallet.png' },
+    { name: 'Leather Wallet', icon: '/assets/Leather-wallet.png' },
+    { name: 'Unisat Wallet', icon: '/assets/Unisat-wallet.png' }
   ];
 
   const rawExtraWallets = ['rainbow','backpack','Solflare','rabbywallet','trezorsuite','bridge','enjin','tokenpocket','tronlink','Slush','airgap','Other'];
